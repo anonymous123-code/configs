@@ -1,0 +1,27 @@
+- type: embed
+  embeds:
+    - title: Welcome
+      description: >-
+        Welcome to my discord server. Here, you can chat about my projects and Minecraft
+- type: rules
+  rules:
+    Follow Discord's rules: >-
+      As a Discord-based community, everyone is required to follow the [Discord Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
+    Attempt to speak English: >-
+      We cannot moderate what people say in other languages. If English is not your native language,  you can use various translation tools to speak in English. Making fun of someone's poor English is not allowed.
+    Respect others: >-
+      Try to keep this community a harassment-free experience for everyone, regardless of age, culture, ethnicity, gender identity & expression, nationality, physical or mental disabilities or differences (regardless of intensity), politics, race, religion, sex, sexual orientation, socio-economic status or subcultural affiliation.
+    Spamming or advertising is prohibited: >-
+      This includes repeated messages, pings, media, and links. Advertisements for things like Discord servers and social media are not allowed. DM adverts are also prohibited.
+    Use appropriate user profiles: >-
+      User profiles are not to feature NSFW content of any kind. NSFW content generally includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content.#
+    Use channels appropriately: >-
+      Follow a channel's given topic and do not derail an ongoing conversation. Do not use the project channels for support. If a channel becomes clogged, use threads.
+    Don't cause problems: >-
+      Do not try to find loopholes in these rules.
+- type: links
+  title: My Projects
+  links:
+    Quilt Crasher: https://github.com/anonymous123-code/quilt-crasher
+    Map Zones: https://github.com/anonymous123-code/mapZones-mod
+    Quilt Bisect: https://github.com/anonymous123-code/quilt-bisect
